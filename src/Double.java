@@ -8,7 +8,7 @@ public class Double {
 		
 		x = 1.3456;
 		
-		System.out.println(String.format("%.2f", x));
+		System.out.println("x = "+String.format("%.2f", x));
 
 	}
 
